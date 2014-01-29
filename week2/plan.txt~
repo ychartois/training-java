@@ -1,0 +1,32 @@
+< --------------------- >
+         Java 
+< --------------------- >
+
+ -> Constructeur
+   -> par defaut
+   -> spécifique 
+   -> surchage
+
+-> static value / block
+   -> comprendre la création d'objet	
+
+-> Passage par valeur (copie)
+
+-> clone()
+   -> shallow clone
+   -> deep clone	
+
+-> finalize()
+
+-> String immutable
+
+-> == and equals
+   -> avec String
+   -> avec Array
+   -> avec List
+
+< --------------------- >
+         Code 
+< --------------------- >
+ Tous les exemples de codes sont sur github:
+ https://github.com/ychartois/JavaByExample.git
