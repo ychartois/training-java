@@ -2,35 +2,14 @@
          Java 
 < --------------------- >
 
--> Value conversion
+-> Value conversion + concatenation
    -> i + "" Vs Integer.toString()
 
--> try/catch/finally (test after a return un catch)
 
 -> checked vs unchecked exception
+-> ressources
+-> try/catch/finally (test after a return un catch)
 
--> Collection
-
--> Synchronized Vs non Synchronize
-
--> equals - hashcode - comparator
 
 -> loop + continue + break
-
--> generic programming
-   -> method erasure
-
-
-< --------------------- >
-         Design 
-< --------------------- >
-
--> override
-
--> Interface Vs Abstract
-
--> Singleton
-
--> class utils
-
 

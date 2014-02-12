@@ -2,18 +2,6 @@
          Java 
 < --------------------- >
 
--> Value conversion + concatenation
-   -> i + "" Vs Integer.toString()
-
-
--> checked vs unchecked exception
--> ressources
--> try/catch/finally (test after a return un catch)
-
-
--> loop + continue + break
-
-
 -> Collection
 
 -> Synchronized Vs non Synchronize
